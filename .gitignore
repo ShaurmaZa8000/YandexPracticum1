@@ -13,6 +13,11 @@
 *.blg
 *.bbl
 *.pdf
-
+_minted
 *.DS_Store
 *.vscode
+
+result_1.pdf
+result_2.pdf
+result_1.tex
+result_2.tex
